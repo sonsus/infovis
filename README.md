@@ -9,10 +9,11 @@
 - (but w/o preprocessing useful traits limits to ~6 values)
 - this report only contains analysis w/o preprocessings
 # 3. Plots
-!.[dashboard1.png]
-!.[dashboard2.png]
-!.[circles_top10.png]
-!.[circles_bot10.png]
+![](dashboard1.png)
+![](dashboard2.png)
+![](circles_top10.png)
+![](circles_bot10.png)
+
 
 # 4. 3 Interesting Findings
 - Still traditional TV show videos views is on top  
@@ -29,4 +30,5 @@
 # 6. Positive/Negative Aspects and Suggestions
 - Data: No video running time? 
 - Versatility: Can do almost any visualization / Complexity of the tool
+- 데이터 밀려서 로딩되는거 몰랐으면 그냥 채널명 이외에 1,2,3,4 인덱스 그냥 파싱 잘못된거인줄 알 뻔 함...(그래서 여기 분석은 다 채널 기준이고 토픽기준이 아님)
 - If there were python script loader for data processing core algorithm, wouldn't this be cool?  
