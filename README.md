@@ -9,11 +9,14 @@
 - (but w/o preprocessing useful traits limits to ~6 values)
 - this report only contains analysis w/o preprocessings
 # 3. Plots
-![](dashboard1.png)
-![](dashboard2.png)
-![](circles_top10.png)
-![](circles_bot10.png)
-
+## number of like/dislike vs number of comments 
+![](comments_like.png)
+## views vs _______
+![](views.png)
+## channels top 20
+![](channels_viewtop.png)
+## channels bot 20
+![](channels_viewbot.png)
 
 # 4. 3 Interesting Findings
 - Still traditional TV show videos views is on top  
