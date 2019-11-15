@@ -21,6 +21,7 @@
 # 4. 3 Interesting Findings
 - Still traditional TV show videos views is on top  
   - expected to be short clips considering majority of user group age, but not could be found in this data.
+  - Why no **pewdiepie** in the data?
 - Based on view, number of comments, likes, dislikes are in power relation
 - there were no outstanding outliers biased toward likes or dislikes: People are jealous or ignorant.
 
