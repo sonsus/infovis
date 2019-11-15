@@ -14,7 +14,7 @@
 ## views vs _______
 ![](views.png)
 ## channels top 20
-![](channels_viewtop.png)
+![](channels_viewtop_.png)
 ## channels bot 20
 ![](channels_viewbot.png)
 
